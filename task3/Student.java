@@ -42,14 +42,15 @@ public class Student {
 		return grades;
 	}
 
-	public void setGrades(int[] grades) {
+	public boolean setGrades(int[] grades) {
 		
 		if (grades.length == Student.GRADES_LEN) {
 			this.grades = grades;
 		} else {
-			System.out.println("Ошибочная длина массива оценок.");
+			return false;
 		}
 		
+		return true;
 	}
 
 	/**

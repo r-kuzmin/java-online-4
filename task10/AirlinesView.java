@@ -24,6 +24,12 @@ public class AirlinesView {
 		this.list = list;
 	}
 
+	/**
+	 * Выводит на консоль рейсы по заданному пункту назначения.
+	 * 
+	 * @param title
+	 * @param port
+	 */
 	public void linesByDestination(String title, Airport port) {
 
 		System.out.println(title + " " + port.getName() + " (" + port.name() + ")");

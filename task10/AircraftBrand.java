@@ -13,5 +13,5 @@ public enum AircraftBrand {
 	public String getName() {
 		return name;
 	}
-	
+
 }
