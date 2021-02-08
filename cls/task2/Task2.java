@@ -1,4 +1,4 @@
-package by.training.cls.task2;
+package by.epam.training.cls.task2;
 
 /**
  * Создйте класс Test2 двумя переменными. Добавьте конструктор с входными

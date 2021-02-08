@@ -1,4 +1,4 @@
-package by.training.cls.task10;
+package by.epam.training.cls.task10;
 
 public enum AircraftBrand {
 	AIRBUS("Airbus"), BOEING("Boeing"), BOMBARDIER("Bombardier"), CESSNA("Cessna"), FALKON("Falkon"),

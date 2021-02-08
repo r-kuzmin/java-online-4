@@ -1,4 +1,4 @@
-package by.training.cls.task10;
+package by.epam.training.cls.task10;
 
 public enum Airport {
 	DME("Domodedovo International Airport", "Moscow, Russia"),

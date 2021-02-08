@@ -1,4 +1,4 @@
-package by.training.cls.task7;
+package by.epam.training.cls.task7;
 
 /**
  * Описать класс, представляющий треугольник. Предусмотреть методы для создания

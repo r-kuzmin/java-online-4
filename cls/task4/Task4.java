@@ -1,4 +1,4 @@
-package by.training.cls.task4;
+package by.epam.training.cls.task4;
 
 import java.util.GregorianCalendar;
 import java.util.Scanner;

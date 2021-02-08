@@ -1,4 +1,4 @@
-package by.training.cls.task6;
+package by.epam.training.cls.task6;
 
 /**
  * Составьте описание класса для представления времени. Предусмотрте возможности

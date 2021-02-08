@@ -1,4 +1,4 @@
-package by.training.cls.task1;
+package by.epam.training.cls.task1;
 
 /**
  * Создайте класс Test1 двумя переменными. Добавьте метод вывода на экран и

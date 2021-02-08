@@ -1,4 +1,4 @@
-package by.training.cls.task8;
+package by.epam.training.cls.task8;
 
 import java.math.BigInteger;
 import java.util.ArrayList;

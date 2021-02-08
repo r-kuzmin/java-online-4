@@ -1,4 +1,4 @@
-package by.training.cls.task10;
+package by.epam.training.cls.task10;
 
 import java.time.DayOfWeek;
 import java.time.LocalTime;

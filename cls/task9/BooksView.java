@@ -1,4 +1,4 @@
-package by.training.cls.task9;
+package by.epam.training.cls.task9;
 
 public class BooksView {
 

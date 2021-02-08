@@ -1,4 +1,4 @@
-package by.training.cls.task9;
+package by.epam.training.cls.task9;
 
 /**
  * Создать класс Book, спецификация которого приведена ниже. Определить

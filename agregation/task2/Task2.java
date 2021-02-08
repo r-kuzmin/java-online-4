@@ -1,4 +1,4 @@
-package by.training.agregation.task2;
+package by.epam.training.agregation.task2;
 
 /**
  * Создать объект класса Автомобиль, используя классы Колесо, Двигатель. Методы:

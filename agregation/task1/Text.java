@@ -1,4 +1,4 @@
-package by.training.agregation.task1;
+package by.epam.training.agregation.task1;
 
 import java.util.ArrayList;
 

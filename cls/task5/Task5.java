@@ -1,4 +1,4 @@
-package by.training.cls.task5;
+package by.epam.training.cls.task5;
 
 /**
  * Опишите класс, реализующий десятичный счетчик, который может увеличивать или

@@ -1,4 +1,4 @@
-package by.training.cls.task5;
+package by.epam.training.cls.task5;
 
 /**
  * Десятичный счётчик. Позволяет задать диапазон допустимых значений [min; max).

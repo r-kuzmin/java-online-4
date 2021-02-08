@@ -1,4 +1,4 @@
-package by.training.cls.task2;
+package by.epam.training.cls.task2;
 
 public class Test2 {
 

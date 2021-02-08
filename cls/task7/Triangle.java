@@ -1,4 +1,4 @@
-package by.training.cls.task7;
+package by.epam.training.cls.task7;
 
 /**
  * Класс, описывающий треугольники. Фигуры создаются по координатам 3 вершин,

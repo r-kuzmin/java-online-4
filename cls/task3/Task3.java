@@ -1,4 +1,4 @@
-package by.training.cls.task3;
+package by.epam.training.cls.task3;
 
 /**
  * Создайте класс с именем Student, содержащий поля: фамилия и инициалы, номер
